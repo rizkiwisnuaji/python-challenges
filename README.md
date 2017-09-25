@@ -1,2 +1,2 @@
 # python-challenges
-Python Challenges
+PYTHON : Exercises, Practice, Solution
